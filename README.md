@@ -1,5 +1,5 @@
-#Madhav E-commerce Sales Dashboard(Interactive Dashboard creation using POWER BI)
-## Project objective 
+# Madhav E-commerce Sales Dashboard(Interactive Dashboard creation using POWER BI)
+# Project objective 
 The primary objective of this project is to analyze e-commerce sales data to identify trends, optimize business strategies, and enhance decision-making. By leveraging data visualization tools, businesses can:
 Gain insights into sales performance across different regions and customer segments.
 Identify profitable product categories and subcategories.
