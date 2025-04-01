@@ -51,3 +51,5 @@ https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/commit/deb00b36dd8731ad
    Performance variation across different quarters?
 
    Best-performing quarter in terms of sales and profit?
+
+   https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/blob/main/Screenshot%202025-04-01%20135651.png
