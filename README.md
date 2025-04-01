@@ -9,4 +9,5 @@ Improve inventory management based on sales trends.
 Facilitate data-driven decision-making for future growth.
 
 # Dataset used
-https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/blob/main/Details.csv
+- <a "https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/blob/main/Details.csv">Madhav Store Data</a>
+- <a "https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/commit/deb00b36dd8731adf68da784606f16aee627cb15">Dataset</a>
