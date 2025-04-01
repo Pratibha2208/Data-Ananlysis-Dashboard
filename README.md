@@ -10,7 +10,7 @@ Improve inventory management based on sales trends.
 Facilitate data-driven decision-making for future growth.
 
 # Dataset used
-https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/commit/deb00b36dd8731adf68da784606f16aee627cb15
+<a href="https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/commit/deb00b36dd8731adf68da784606f16aee627cb15">Dataset</a>
 
 # Key Performance Indicators (KPIs)
 
