@@ -37,9 +37,10 @@ Facilitate data-driven decision-making for future growth.
 6. Quarterly Performance
 
    Performance variation across different quarters?<br>Best-performing quarter in terms of sales and profit?
-
+   
+# Dashboard Image
   Dashboard Interaction <a href="https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/blob/main/Screenshot%202025-04-01%20135651.png">view Dashboard</a>
 
-  # How to Use the Dashboard
+# How to Use the Dashboard
 
    Load the dataset into Power BI or Tableau.<br>Explore the interactive graphs for sales insights.<br>Use filters to view data for different time periods, customers, and product categories.
