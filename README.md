@@ -15,8 +15,8 @@ https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/commit/deb00b36dd8731ad
 # Key Performance Indicators (KPIs)
 
 1. Total Sales Performance
-Total sales amount over a given period?
-Sales distribution by state?
+-Total sales amount over a given period?
+-Sales distribution by state?
 
 2. Profit Analysis
 Total profit earned?
