@@ -7,3 +7,5 @@ Analyze customer purchasing behaviors and preferred payment methods.
 Track quarterly and monthly profit fluctuations.
 Improve inventory management based on sales trends.
 Facilitate data-driven decision-making for future growth.
+
+# Dataset used
