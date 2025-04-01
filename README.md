@@ -16,46 +16,30 @@ Facilitate data-driven decision-making for future growth.
 
 1. Total Sales Performance
    
-   Total sales amount over a given period?
-
-   Sales distribution by state?
+   Total sales amount over a given period?<br>Sales distribution by state?
 
 2. Profit Analysis
    
-   Total profit earned?
-
-   Profit trend by month?
-
-   Top profitable sub-categories?
+   Total profit earned?<br>Profit trend by month?<br>Top profitable sub-categories?
 
 3. Order Quantity Insights
 
-   Total quantity of units sold?
-
-   Distribution of sales by product category?
+   Total quantity of units sold?<br>Distribution of sales by product category?
 
 4. Payment Mode Distribution
 
-   Preferred payment methods among customers?
-
-   Percentage of total transactions per payment mode?
+   Preferred payment methods among customers?<br>Percentage of total transactions per payment mode?
 
 5. Customer Contribution
 
-   Top customers contributing to total sales?
-
-   Sales distribution by customer?
+   Top customers contributing to total sales?<br>Sales distribution by customer?
 
 6. Quarterly Performance
 
-   Performance variation across different quarters?
-
-   Best-performing quarter in terms of sales and profit?
+   Performance variation across different quarters?<br>Best-performing quarter in terms of sales and profit?
 
   Dashboard Interaction <a href="https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/blob/main/Screenshot%202025-04-01%20135651.png">view Dashboard</a>
 
   # How to Use the Dashboard
 
-   Load the dataset into Power BI or Tableau.<br>Explore the interactive graphs for sales insights.
-  
-   Use filters to view data for different time periods, customers, and product categories.
+   Load the dataset into Power BI or Tableau.<br>Explore the interactive graphs for sales insights.<br>Use filters to view data for different time periods, customers, and product categories.
