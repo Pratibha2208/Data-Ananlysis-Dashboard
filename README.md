@@ -48,6 +48,6 @@ https://github.com/Pratibha2208/Data-Ananlysis-Dashboard/commit/deb00b36dd8731ad
 
 6. Quarterly Performance
 
-  Performance variation across different quarters?
+   Performance variation across different quarters?
 
-  Best-performing quarter in terms of sales and profit?
+   Best-performing quarter in terms of sales and profit?
