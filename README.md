@@ -56,6 +56,6 @@ Facilitate data-driven decision-making for future growth.
 
   # How to Use the Dashboard
 
-   Load the dataset into Power BI or Tableau.
-   Explore the interactive graphs for sales insights.
+   Load the dataset into Power BI or Tableau.<br>Explore the interactive graphs for sales insights.
+  
    Use filters to view data for different time periods, customers, and product categories.
